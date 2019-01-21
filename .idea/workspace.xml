@@ -1,100 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8c62d59-f790-48e4-8630-e29cf7eb14ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/black_cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color_classification_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color_classification_webcam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color_recognition_api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color_recognition_api/color_histogram_feature_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color_recognition_api/knn_classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/japan-flag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kgz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo-AZ-smile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black10.png.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/black/black9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/blue/blue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/blue/blue1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/blue/blue2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/blue/blue3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/blue/blue4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/blue/blue5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/green/green9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/orange/orange9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/red/red9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/violet/violet9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/white/white9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_dataset/yellow/yellow9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a8c62d59-f790-48e4-8630-e29cf7eb14ce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,24 +154,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547632992315</updated>
-      <workItem from="1547632993994" duration="384000" />
+      <workItem from="1547632993994" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384000" />
+    <option name="totallyTimeSpent" value="612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
